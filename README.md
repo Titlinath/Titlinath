@@ -48,3 +48,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Titlinath&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 <div align="center">
+
+## 🏆 GitHub Trophies
+
+</div>
+
+![](https://github-profile-trophy.vercel.app/?username=Titlinath&theme=radical&no-frame=false&no-bg=true&margin-w=4)
