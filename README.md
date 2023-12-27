@@ -31,10 +31,20 @@
    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,next,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,java,linux,cpp" /><br>
 </div>
 <br/>
 <hr/>
 
+<div align="center">
+
+# 📊 GitHub Stats:
+  
+  </div>
+
+  ![](https://github-readme-stats.vercel.app/api?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pritanshu69&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pritanshu69&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  
 <div align="center">
