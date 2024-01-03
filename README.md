@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on **A frontend projet**
 
-🌱 I’m currently learning **Python, Javascript**
+🌱 I’m currently learning **Python, Javascript, Java, Accesssql**
 
 ⚡ Fun fact **I can't remember passwords**
 
