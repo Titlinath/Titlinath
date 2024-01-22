@@ -13,7 +13,7 @@
 
 🌱 I’m currently learning **Python, Javascript, Java, Accesssql**
 
-⚡ Fun fact ** From writing my first 'Hello World' program to now eagerly exploring the vast world of technology, every coding challenge feels like a thrilling adventure. Excited to embark on this journey, blend my skills with innovation, and create some tech magic! 💻✨**
+⚡ Fun fact **From writing my first 'Hello World' program to now eagerly exploring the vast world of technology, every coding challenge feels like a thrilling adventure. Excited to embark on this journey, blend my skills with innovation, and create some tech magic! 💻✨**
 
 </div>
 
