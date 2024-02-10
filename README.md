@@ -11,7 +11,7 @@
 
 🔭 I’m currently working on **A frontend projet**
 
-🌱 I’m currently learning **Python, Javascript, Java, Accesssql**
+🌱 I’m currently learning **Python, Javascript, Java, Sql**
 
 ⚡ Fun fact : **From writing my first 'Hello World' program to now eagerly exploring the vast world of technology 💻✨**
 
@@ -31,7 +31,7 @@
    <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,tailwind,git,SQL" />
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase,c,java,linux,cpp" /><br>
 </div>
 <br/>
