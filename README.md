@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm TITLI NATH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent"
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw2Ju59j7O5r1kY4bOjo9p5b&ust=1710215250967000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiukeam64QDFQAAAAAdAAAAABAQ"
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titlinath" alt="titlinath" /></a> </p>
 
 - 🔭 I’m currently working on **a frontend project**
