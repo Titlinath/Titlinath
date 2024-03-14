@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, MSSQL**
 
-- 📫 How to reach me **titlimath3@gmail.com**
+- 📫 How to reach me **titlinath3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
