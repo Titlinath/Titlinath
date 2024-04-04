@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm TITLI NATH</h1>
+<h1 align="center">Hi everyone 👋, I'm TITLI NATH</h1>
 <div align = "center"> <img src = "https://github.com/Titlinath/Titlinath/blob/main/Untitled%20(3).png"> </div>
 <h3 align="center">A passionate frontend developer from India</h3>
 
