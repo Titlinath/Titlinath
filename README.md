@@ -1,6 +1,5 @@
 <h1 align="center">Hi I'm TITLI NATH  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Titlinath.Titlinath" />
-<div align = "center"> <img src = "https://github.com/Titlinath/Titlinath/blob/main/Untitled%20(3).png"> </div>
 
 <img align = "right" alt = "coding" width = "350" src = "https://github.com/Titlinath/Titlinath/blob/main/giphy.gif">
 
