@@ -17,7 +17,7 @@
 <a href="https://instagram.com/a_forgotten_story__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a_forgotten_story__" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An enthusiastic tech explorer from India, delving into new technologies, problem-solving, and continuous learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=titlinath" alt="titlinath" /></a> </p>
 
