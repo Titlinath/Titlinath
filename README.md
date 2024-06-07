@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a frontend project**
 
-- 🌱 I’m currently learning **Java, MSSQL**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **titlinath3@gmail.com**
 
