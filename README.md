@@ -3,11 +3,6 @@
 
 <img align = "right" alt = "coding" width = "350" src = "https://github.com/Titlinath/Titlinath/blob/main/giphy.gif">
 
-- 🔭 I’m currently working on **a frontend project**
-
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **titlinath3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
